@@ -7,11 +7,11 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # サブディレクトリを追加
 add_subdirectory(lesson11_classes)
 add_subdirectory(lesson12_constructors)
+add_subdirectory(lesson13_inheritance)
+add_subdirectory(lesson14_namespaces)
+add_subdirectory(lesson15_operators)
 
 # 将来のレッスン用（作成時にコメントを外す）
-# add_subdirectory(lesson13_inheritance)
-# add_subdirectory(lesson14_namespaces)
-# add_subdirectory(lesson15_operators)
 # add_subdirectory(lesson16_vector_deque)
 # add_subdirectory(lesson17_list)
 # add_subdirectory(lesson18_stack_queue)
